@@ -1,7 +1,7 @@
 # URP-Pixel-Outline-Shader
 
 
-!\[Preview](Image/1.png) (Image/2.png) (Image/3.png)
+!\[Preview](Image/1.png)
 
 A full-screen post-processing effect for Unity Universal Render Pipeline (URP) that transforms 3D scenes into high-quality pixel art. This package includes a Scriptable Renderer Feature, a custom Shader, and a complete runtime UI controller.
 
